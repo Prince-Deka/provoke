@@ -24,15 +24,22 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.ps{
+    background-color: rgb(99, 99, 247);
+    padding-inline: 5rem;
+    padding-block: 1.2rem;
+    font: 900;
+    color: white;
+    font-size: x-large;
+    border-radius: 18px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pl{
+    background-color: red;
+    padding-inline: 5rem;
+    padding-block: 1.2rem;
+    font: 900;
+    color: white;
+    font-size: x-large;
+    border-radius: 18px;
 }
